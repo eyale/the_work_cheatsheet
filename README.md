@@ -3,16 +3,16 @@
 
 
 //the ubuntu clean commands
-'''
+```
 sudo apt-get clean
-'''
+```
 
 //change the rights
-'''
+```
 sudo chmod -R 777 /var/www
-'''
+```
 
 //see the resolution of the screen
-'''
+```
 xrandr --output LVDS
-'''
+```
