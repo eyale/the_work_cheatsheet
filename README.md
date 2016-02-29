@@ -1,7 +1,6 @@
 # the_work_cheatsheet
 ### some terminal shortcuts for work that i used during the day
 
-
 the ubuntu clean commands
 ```
 sudo apt-get clean
